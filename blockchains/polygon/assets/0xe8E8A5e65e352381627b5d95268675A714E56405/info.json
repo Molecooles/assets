@@ -1,0 +1,15 @@
+{
+    "name": "Molecooles",
+    "symbol": "MQLS",
+    "type": "POLYGON",
+    "decimals": 18,
+    "description": "Molecooles beauty biohacking token powering AI skin analysis and personalized beauty protocols.",
+    "website": "https://molecooles.com",
+    "explorer": "https://polygonscan.com/token/0xe8E8A5e65e352381627b5d95268675A714E56405",
+    "status": "active",
+    "id": "0xe8E8A5e65e352381627b5d95268675A714E56405",
+    "links": [
+        {"name": "twitter", "url": "https://x.com/MolecoolesCC"},
+        {"name": "telegram", "url": "https://t.me/+kjC6Q1fhKnhiNjNk"}
+    ]
+}
